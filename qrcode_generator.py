@@ -1,3 +1,5 @@
+#Python code to generate QR codes of links and text
+#Dev - Aditya Singh
 import qrcode
 
 qr = qrcode.QRCode(
